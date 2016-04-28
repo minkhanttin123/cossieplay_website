@@ -1,0 +1,293 @@
+@charset "utf-8";
+#Title {
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 65px;
+	color: rgba(255,255,255,1.00);
+	text-shadow: 0px 0px;
+	font-style: normal;
+	letter-spacing: 12px;
+	background-color: rgba(0,0,0,1.00);
+	height: 200px;
+	width: 100%;
+}
+#Footer {
+	position: absolute;
+	color: rgba(255,255,255,1);
+	text-align: center;
+	font-size: 24px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	letter-spacing: 3px;
+	background-color: rgba(0,0,0,1.00);
+	width: 99%;
+	margin-top: 104px;
+	padding-top: 100px;
+	padding-bottom: 20px;
+
+
+}
+body {
+	color: rgba(255,255,255,1);
+	background-color: rgba(127,142,255,1.00);
+	overflow-x: visible;
+}
+#Image1 {
+	position: absolute;
+	border: 10px double rgba(0,0,0,1.00);
+	padding-right: 0px;
+	margin-left: 346px;
+	margin-bottom: 0px;
+	top: 287px;	
+}
+
+#table {
+	color: rgba(255,255,255,1.00);
+	text-transform: capitalize;
+	letter-spacing: 2px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 18px;
+	background-color: rgba(0,0,0,1.00);
+	border-width: thin;
+	border-color: rgba(255,255,255,1.00);
+	margin-top: 100px;
+	width: 270px;
+}
+#image2 {
+	position: absolute;
+	margin-left: 1164px;
+	top: 287px;
+	border: 10px double rgba(0,0,0,1.00);
+}
+#price_table_picture {
+	position: absolute;
+	margin-left: 1280px;
+	top: 250px;
+	border: 10px double rgba(0,0,0,1.00);
+}
+#image3 {
+	position: absolute;
+	margin-left: 1400px;
+	top: 300px;
+	border: 10px double rgba(0,0,0,1.00);
+}
+#image6 {
+	position: absolute;
+	margin-left: 1435px;
+	top: 275px;
+	border: 10px double rgba(0,0,0,1.00);
+}
+#image5 {
+	position: absolute;
+	margin-left: 1400px;
+	top: 320px;
+	border: 10px double rgba(0,0,0,1.00);
+}
+#image4 {
+	position: absolute;
+	margin-left: 1490px;
+	top: 300px;
+	border: 10px double rgba(0,0,0,1.00);
+}
+#imageUN {
+	position: absolute;
+	margin-left: 1495px;
+	top: 290px;
+	border: 10px double rgba(0,0,0,1.00);
+}
+#cosplay_paragraph {
+	background-color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 26px;
+	width: 50%;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-left: 346px;
+	margin-bottom: 0px;
+	top: 300px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	border-color: rgba(255,255,255,1.00);
+	border-radius: 20px;
+	border-style: ridge;
+	text-align: left;
+	
+}
+#Links_paragraph {
+	background-color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 26px;
+	width: 50%;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-left: 346px;
+	margin-bottom: 0px;
+	top: 300px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	border-color: rgba(255,255,255,1.00);
+	border-radius: 20px;
+	border-style: ridge;
+	text-align: left;
+	
+}
+#Annoucement_paragraph {
+	background-color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 26px;
+	width: 50%;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-left: 346px;
+	margin-bottom: 0px;
+	top: 300px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	border-color: rgba(255,255,255,1.00);
+	border-radius: 20px;
+	border-style: ridge;
+	text-align: left;
+	
+}
+#party_paragrah2 {
+	background-color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 26px;
+	width: 50%;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-left: 346px;
+	margin-bottom: 0px;
+	top: 481px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	border-color: rgba(255,255,255,1.00);
+	border-radius: 20px;
+	border-style: ridge;
+	text-align: left;
+	
+}
+#party_signup {
+	background-color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 26px;
+	width: 20%;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-left: 1400px;
+	margin-bottom: 0px;
+	top: 300px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	border-color: rgba(255,255,255,1.00);
+	border-radius: 20px;
+	border-style: ridge;
+	text-align: left;
+	
+}
+#party_paragraph {
+	background-color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 26px;
+	width: 50%;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-left: 346px;
+	margin-bottom: 0px;
+	top: 197px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	border-color: rgba(255,255,255,1.00);
+	border-radius: 20px;
+	border-style: ridge;
+	
+}
+#costumes_pictable {
+	/* [disabled]background-color: rgba(0,0,0,1.00); */
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-left: 346px;
+	margin-bottom: 0px;
+	top: 246px;
+	border: medium outset rgba(0,0,0,1.00);
+	
+}
+#aboutcp_paragraph {
+	background-color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 26px;
+	width: 55%;
+	position: absolute;
+	margin-bottom: 0px;
+	margin-left: 346px;
+	margin-bottom: 0px;
+	top: 275px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	border-color: rgba(255,255,255,1.00);
+	border-radius: 20px;
+	border-style: ridge;
+	text-align: left;
+	
+}
+#subtitle {
+	position: absolute;
+	letter-spacing: 4px;
+	font-size: 20px;
+	
+	
+}
+#pagetitle {
+	position: absolute;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	letter-spacing: 4px;
+	
+	}
+#subtitle_custome {
+	letter-spacing: 7px;
+
+}
+#NormalText {
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+}
+#NormalText {
+}
+.Normaltext {
+}
+#NormalText {
+}
+#NormalText {
+}
+#NormalText {
+}
+#NormalText {
+}
+#NormalText {
+}
+#coloredtext {
+	color: rgba(255,255,255,1.00);
+	text-decoration: none;
+	background-color: rgba(255,0,0,1.00);
+	border-radius: 10px;
+	padding-top: 5px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+}
+#NormalText {
+}
