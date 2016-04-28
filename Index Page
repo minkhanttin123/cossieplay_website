@@ -1,0 +1,50 @@
+CossiePlay Website
+Index Page Source Code
+
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/CP Template.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta charset="utf-8">
+<title>CossiePlay</title>
+<link href="Style.css" rel="stylesheet" type="text/css">
+
+
+</head>
+<!-- InstanceBeginEditable name="Region" -->
+<div id="Title">CossiePlay<br>
+<span style="font-size: 40px; font-style: normal;">Cosplay store and event</span></div>
+
+
+<span style="font-style: normal"></span>
+<img src="Images/book-fair-678264_1280.jpg" alt="" width="600" height="450" id="Image1"/>
+<img src="Images/sewing-hands-1418016.jpg" alt="" width="600" height="450" id="image2"/>
+<table width="250" border="1" cellpadding="15" id="table">
+  <tbody>
+   <tr>
+      <th id="Table" style="font-size: 18px" scope="row"><a href="index.html" id="coloredtext">Home</a></th>
+    </tr>
+    <tr>
+      <th id="Table" style="font-size: 18px" scope="row"><a href="Cosplay Page.html" id="NormalText">Cosplay</a></th>
+    </tr>
+    <tr>
+      <th id="Table" style="font-size: 18px;" scope="row"><a href="About Cossieplay Page.html" id="NormalText">About Us</a></th>
+    </tr>
+    <tr>
+      <th id="Table" style="font-size: 18px" scope="row"><a href="Costume Page.html" id="NormalText">Costumes</a></th>
+    </tr>
+    <tr>
+      <th id="Table" scope="row"><a href="Party Page.html" id="NormalText">Party Guide</a></th>
+    </tr>
+    <tr>
+      <th id="Table" style="font-size: 18px" scope="row"><a href="Annoucement Page.html" id="NormalText">Announcements</a></th>
+    </tr>
+    <tr>
+      <th id="Table" style="font-size: 18px" scope="row"><a href="Links Page.html" id="NormalText">Links</a></th>
+    </tr>
+  </tbody>
+</table>
+
+<!-- InstanceEndEditable -->
+<div id="Footer">Phone:07 4771 1234 &nbsp;&nbsp;&nbsp;Fax: 07-4771 1235&nbsp;&nbsp;&nbsp;Mail: cossieplay@gmail.com<br>
+Address: 4 Stanton Avenue, Hulkstwon</div>
+<!-- InstanceEnd --></html>
